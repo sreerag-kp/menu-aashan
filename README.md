@@ -20,10 +20,10 @@ Get the official Android application for Restaurant Owners and Kitchen Staff.
 
 | Version | Target OS | File Format | Direct Download |
 | :--- | :--- | :--- | :--- |
-| **v1.0.0 (Latest)** | Android 8.0 (Oreo) to Android 15 | `.apk` (61.3 MB) | [⬇️ **Download MenuAashan-Owner-POS.apk**](https://github.com/sreerag-kp/menu-aashan/raw/main/MenuAashan-Owner-POS.apk) |
+| **v1.0.0 (Latest)** | Android 8.0 (Oreo) to Android 15 | `.apk` (61.2 MB) | [⬇️ **Download MenuAashan-Owner-POS.apk**](https://github.com/sreerag-kp/menu-aashan/raw/main/MenuAashan-Owner-POS.apk) |
 
 > 💡 **Direct Download Link**: [https://github.com/sreerag-kp/menu-aashan/raw/main/MenuAashan-Owner-POS.apk](https://github.com/sreerag-kp/menu-aashan/raw/main/MenuAashan-Owner-POS.apk)
-> 🔒 **SHA-256 Checksum**: `626e3348af2818963bd4fded04fa2618a946af5e1fa70b18f73c69bc4f78c0c2`
+> 🔒 **SHA-256 Checksum**: `1cefa39e3cb4c797840646d4692faf2b5ab1ba0dc1c76ae570214252e7846e5f`
 
 ---
 
